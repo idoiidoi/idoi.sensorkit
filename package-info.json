@@ -1,0 +1,10 @@
+{
+	"name": "idoi.sensorkit",
+	"displayname": "idoi.sensorkit",
+	"version": "1.0.0",
+	"author": "Itsuki Doi",
+	"description": "Calibrate, plot, record and play back sensor data (v8 / v8ui)",
+	"website": "https://github.com/idoiidoi/idoi.sensorkit",
+	"max_version_min": "9.0",
+	"tags": ["sensor", "visualization", "plot", "recording", "csv", "calibration", "v8ui"]
+}
